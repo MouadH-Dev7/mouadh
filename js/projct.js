@@ -1,75 +1,22 @@
 var projcts = [
     {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
+        img: "images/Car finance-cuate.png",
+        titele: "Driving license management project",
+        description: "Driving license management project, programming in C#.  Net is a desktop application",
 
     },
     {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
+        img: "images/Hospital building-bro.png",
+        titele: "Hospital management project",
+        description: "Hospital management project programmed in C#.  Net is a desktop application",
 
     },
     {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
+        img: "images/Hotel Booking-bro.png",
+        titele: "Hotel management project",
+        description: "A hotel management project programmed in C#.  Net is a desktop application",
 
     },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
 
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p1",
-        description: "This is a project 1",
-
-    },
-    {
-        img: "/images/Coding workshop-bro.png",
-        titele: "p2",
-        description: "This is a project 1",
-
-    },
 
 ]

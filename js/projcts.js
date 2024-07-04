@@ -5,7 +5,7 @@ for (let i = 0; i < projcts.length; i++) {
     // div
     var pdiv = document.createElement("div");
     var divstyle = document.createAttribute("style");
-    divstyle.value = "display: inline-block; width: 300px; margin: 10px; text-align: center";
+    divstyle.value = "display: inline-block; width: 300px; margin: 40px; text-align: center";
     pdiv.setAttributeNode(divstyle);
 
     // h3
