@@ -1,0 +1,209 @@
+body {
+    font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    list-style-type: none;
+}
+
+.menu {
+    background-color: rgb(14, 119, 211);
+    color: aliceblue;
+    list-style-type: none;
+    overflow: hidden;
+    text-align: center;
+}
+
+.li-menu {
+    float: right;
+}
+
+.titele {
+    font-size: 30px;
+    display: inline;
+    color: #efefef;
+
+}
+
+.a-menu {
+    text-decoration: none;
+    color: aliceblue;
+    display: block;
+    padding: 17px;
+}
+
+.li-menu a:hover {
+    background-color: #4583cadc;
+}
+
+.culom1 {
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.img-profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+}
+
+.sos {
+    padding: 10px;
+
+}
+
+.cls-left {
+    float: left;
+    width: 20%;
+}
+
+.cls-rith {
+    float: right;
+    width: 80%;
+}
+
+.row:after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+.row {
+    padding-bottom: 10px;
+}
+
+.span-main {
+    background-color: gray;
+    display: block;
+    height: 25px;
+    width: 600px;
+
+
+}
+
+.span-main span {
+
+    background-color: rgb(14, 119, 211);
+    display: block;
+    height: 25px;
+}
+
+.span-java {
+
+    width: 400px;
+    animation: span-java 2s;
+}
+
+.span-c_plus {
+
+    width: 500px;
+    animation: span-c_plus 2s;
+}
+
+.span-c {
+
+    width: 500px;
+    animation: span-c 2s;
+}
+
+.span-c_sh {
+    width: 500px;
+    animation: span-c_sh 2s;
+}
+
+.span-js {
+    width: 450px;
+    animation: span-js 2s;
+}
+
+@keyframes span-java {
+    0% {
+        width: 0;
+        background-color: red;
+    }
+
+    50% {
+        width: 200px;
+        background-color: rgba(255, 208, 0, 0.886);
+    }
+
+    100% {
+        width: 400px;
+        background-color: rgba(0, 255, 4, 0.886);
+    }
+}
+
+@keyframes span-c_plus {
+    0% {
+        width: 0;
+        background-color: red;
+    }
+
+    50% {
+        width: 250px;
+        background-color: rgba(255, 208, 0, 0.886);
+    }
+
+    100% {
+        width: 500px;
+        background-color: rgba(0, 255, 4, 0.886);
+    }
+}
+
+@keyframes span-c {
+    0% {
+        width: 0;
+        background-color: red;
+    }
+
+    50% {
+        width: 250px;
+        background-color: rgba(255, 208, 0, 0.886);
+    }
+
+    100% {
+        width: 500px;
+        background-color: rgba(0, 255, 4, 0.886);
+    }
+}
+
+@keyframes span-c_sh {
+    0% {
+        width: 0;
+        background-color: red;
+    }
+
+    50% {
+        width: 250px;
+        background-color: rgba(255, 208, 0, 0.886);
+    }
+
+    100% {
+        width: 500px;
+        background-color: rgba(0, 255, 4, 0.886);
+    }
+}
+
+@keyframes span-js {
+    0% {
+        width: 0;
+        background-color: red;
+    }
+
+    50% {
+        width: 225px;
+        background-color: rgba(255, 208, 0, 0.886);
+    }
+
+    100% {
+        width: 450px;
+        background-color: rgba(0, 255, 4, 0.886);
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .culom1 {
+        width: 100%;
+    }
+}
